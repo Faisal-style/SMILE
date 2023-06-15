@@ -27,8 +27,8 @@ According to the Indonesia-National Adolescent Mental Health Survey 2022, 15.5 m
 
 ## Our Repositories
 
-|    Branch Name     |                                   Branch Link                                   |
-| :----------------: | :-----------------------------------------------------------------------------: |
-| Mobile Development |           [MD Github](https://github.com/Faisal-style/SMILE-ANDROID)            |
-|  Cloud Computing   |           [CC Github](https://github.com/zaidannoor/Bangkit-capstone)           |
-|  Machine Learning  | [ML Github](https://github.com/fendy07/chatbot-AI/blob/master/DL_Chatbot.ipynb) |
+|    Branch Name     |                             Branch Link                             |
+| :----------------: | :-----------------------------------------------------------------: |
+| Mobile Development |     [MD Github](https://github.com/Faisal-style/SMILE-ANDROID)      |
+|  Cloud Computing   |     [CC Github](https://github.com/zaidannoor/Bangkit-capstone)     |
+|  Machine Learning  | [ML Github](https://github.com/misbahEffendy/SMILE-machinelearning) |
