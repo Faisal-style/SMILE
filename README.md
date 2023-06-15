@@ -18,11 +18,14 @@ Here is our repository for Bangkit 2023 Capstone project. Our team consist of 3 
 |  Imam Bahy Putra Susetyo  | C172DSX3333 |  Cloud Computing   |
 |     Zaidan Noor Irfan     | C306DSX0673 |  Cloud Computing   |
 
-## About this project
+## Project Summary
 
-SMILE
+<p align="justify">
+<img src="https://github.com/Faisal-style/SMILE/assets/72845777/08180415-a79a-43f0-bb40-922a0c8ea194" width="190px" height=auto align="right" alt="Computador"/>
+According to the Indonesia-National Adolescent Mental Health Survey 2022, 15.5 million (34.9%) adolescents experience mental health problems, and 2.45 million (5.5%) adolescents experience mental disorders. Out of that number, only 2.6% have accessed counseling services. Mental health has become a crucial issue for young generations lately. Many young people feel anxious about their circumstances but don't know who to talk to. In addition, anxiety and shame make it difficult to share their problems with others, fearing they may be seen as exaggerating. Therefore, our Capstone project aims to create and develop a mental health chatbot. The main goal is to provide a platform for those who want to express their anxiety and receive an initial diagnosis of their mental state without the fear of being known by others.
+</p>
 
-## Repositories
+## Our Repositories
 
 |    Branch Name     |                                   Branch Link                                   |
 | :----------------: | :-----------------------------------------------------------------------------: |
