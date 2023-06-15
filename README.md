@@ -25,6 +25,6 @@ SMILE
 
 |    Branch Name     |                                   Branch Link                                   |
 | :----------------: | :-----------------------------------------------------------------------------: |
-| Mobile Development |           [MD Branch](https://github.com/Faisal-style/SMILE-ANDROID)            |
-|  Cloud Computing   |           [CC Branch](https://github.com/zaidannoor/Bangkit-capstone)           |
-|  Machine Learning  | [ML Branch](https://github.com/fendy07/chatbot-AI/blob/master/DL_Chatbot.ipynb) |
+| Mobile Development |           [MD Github](https://github.com/Faisal-style/SMILE-ANDROID)            |
+|  Cloud Computing   |           [CC Github](https://github.com/zaidannoor/Bangkit-capstone)           |
+|  Machine Learning  | [ML Github](https://github.com/fendy07/chatbot-AI/blob/master/DL_Chatbot.ipynb) |
