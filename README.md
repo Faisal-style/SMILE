@@ -1,6 +1,7 @@
 # :smile: SMILE (Support and Mental Insight for Life Empowerment)
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/72845777/246135479-c56a5617-a64d-4564-acfb-54d7ae19f6bc.gif" width="200px"/>
+
 ## Bangkit Capstone Project 2023
 
 Bangkit Capstone Team ID : C23 - PS110 <br>
