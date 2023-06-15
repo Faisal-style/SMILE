@@ -9,14 +9,14 @@ Here is our repository for Bangkit 2023 Capstone project. Our team consist of 3 
 
 ## Our Teams
 
-|           Name            | Bangkit-ID  |   Learning Path    |
-| :-----------------------: | :---------: | :----------------: |
-| Muhammad Daffa Al Akhdaan | M125DKX4543 |  Machine Learning  |
-|  Muhammad Misbah Effendy  | M125DKX4568 |  Machine Learning  |
-|       Mahira Putri        | M125DKY4565 |  Machine Learning  |
-|    Faisal Reza Rahmat     | A306DSX1114 | Mobile Development |
-|  Imam Bahy Putra Susetyo  | C172DSX3333 |  Cloud Computing   |
-|     Zaidan Noor Irfan     | C306DSX0673 |  Cloud Computing   |
+|           Name            | Bangkit-ID  |   Learning Path    | LinkedIn                                                                           |
+| :-----------------------: | :---------: | :----------------: | ---------------------------------------------------------------------------------- |
+| Muhammad Daffa Al Akhdaan | M125DKX4543 |  Machine Learning  | [Click Here to See Me ](https://www.linkedin.com/in/daffa-al-akhdaan-16251625a/)   |
+|  Muhammad Misbah Effendy  | M125DKX4568 |  Machine Learning  | [Click Here to See Me ](https://www.linkedin.com/in/misbah-effendy/)               |
+|       Mahira Putri        | M125DKY4565 |  Machine Learning  | [Click Here to See Me ](https://www.linkedin.com/in/mahiraputri14/)                |
+|    Faisal Reza Rahmat     | A306DSX1114 | Mobile Development | [Click Here to See Me ](https://www.linkedin.com/in/faisal-reza-rahmat-49b09b24a/) |
+|  Imam Bahy Putra Susetyo  | C172DSX3333 |  Cloud Computing   | [Click Here to See Me ](https://www.linkedin.com/in/imambahyputra/)                |
+|     Zaidan Noor Irfan     | C306DSX0673 |  Cloud Computing   | [Click Here to See Me ](https://www.linkedin.com/in/zaidan-noor-irfan-4653161a0/)  |
 
 ## Project Summary
 
